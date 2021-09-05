@@ -1,0 +1,31 @@
+{
+  "slices": {
+    "FullwidthImage": {},
+    "CenterText": {
+      "default-slice": {
+        "primary": {
+          "paragraph": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "_cts": {
+    "case-page": {},
+    "page": {},
+    "menu": {
+      "footerLinks": {
+        "label": {
+          "config": {
+            "patternType": "PARAGRAPH",
+            "blocks": 1
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "case-page",
+  "label": "CasePage",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "brandName": {
+        "config": {
+          "label": "",
+          "placeholder": ""
+        },
+        "type": "UID"
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "fullwidth_image": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}

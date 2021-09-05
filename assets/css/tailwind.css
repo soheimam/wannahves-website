@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/components";
+@import "assets/css/base/typography.css";
+@import "assets/css/layout/layout.css";
+@import "tailwindcss/utilities";
+
+
+

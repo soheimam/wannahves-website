@@ -1,0 +1,223 @@
+{
+  "id": "d93d00e5-4035-4707-b1c7-7cf33c78df73",
+  "uid": "ut-vero-placeat",
+  "type": "menu",
+  "data": {
+    "logo": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=900&h=500&fit=crop"
+    },
+    "fontColor": "#1344c5",
+    "backgroundColor": "#f5e140",
+    "menu_links": [
+      {
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Veniam culpa consequat id elit ex ut voluptate id commodo irure enim minim.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Esse velit deserunt amet laboris esse nostrud adipisicing deserunt amet non nulla ipsum excepteur excepteur aute. Adipisicing tempor id cupidatat sunt fugiat minim esse.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      },
+      {
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Cupidatat amet exercitation consectetur esse aliqua sint velit cillum ullamco magna id nulla culpa dolor enim. Consectetur deserunt officia dolor ex aliqua. Non consectetur magna esse Lorem anim esse elit aliquip aute enim.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      },
+      {
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Exercitation elit non ipsum ex nisi nisi in fugiat eiusmod proident veniam. Lorem laboris veniam laboris dolor consectetur officia id ut occaecat velit aute. Eu incididunt dolor aliqua adipisicing mollit fugiat ipsum est irure ut dolor enim voluptate aliqua esse.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        }
+      },
+      {
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Voluptate laborum cillum ad tempor ad nisi cillum sint. Exercitation duis duis sint fugiat ipsum non proident do tempor duis magna fugiat. Velit aliqua officia nulla sunt cupidatat eiusmod sint reprehenderit.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      }
+    ],
+    "socials": [
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&h=500&fit=crop"
+        },
+        "linkLabel": "unleash proactive systems"
+      },
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=900&h=500&fit=crop"
+        },
+        "linkLabel": "transition ubiquitous e-commerce"
+      },
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=900&h=500&fit=crop"
+        },
+        "linkLabel": "integrate killer users"
+      }
+    ],
+    "locations": [
+      {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Aliqua sunt anim sint voluptate duis sit voluptate sit irure tempor aliqua laborum. Reprehenderit occaecat mollit nisi nisi adipisicing. Sint officia magna cupidatat laboris ad laboris ipsum velit adipisicing amet est aliqua labore officia.",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Et do voluptate ipsum et Lorem nulla Lorem culpa nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Esse amet aliqua et aute ipsum id. Quis dolor est ex cupidatat consectetur enim aute excepteur mollit ea do amet irure qui.",
+            "spans": []
+          }
+        ],
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Exercitation cupidatat amet pariatur in nulla qui ullamco ea ea in aliqua cupidatat labore.",
+            "spans": []
+          }
+        ]
+      }
+    ],
+    "footerLinks": [
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Cillum anim eiusmod irure adipisicing anim. Eiusmod irure nulla nisi dolore quis qui minim aliqua incididunt aliquip. Sit eu laborum consequat qui nulla anim.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "https://slicemachine.dev"
+        },
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Ea consectetur sunt amet veniam est sint ipsum dolore officia anim officia eu sit laboris amet. Laboris labore eu est veniam exercitation exercitation ipsum sunt. Commodo adipisicing cupidatat eiusmod laboris cillum duis id consectetur sunt anim eiusmod.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Ut culpa dolor culpa non cillum occaecat voluptate laborum veniam voluptate esse do exercitation exercitation. Minim reprehenderit culpa proident duis aliquip amet irure voluptate ut excepteur. Cillum ut nisi occaecat irure laboris non dolor do.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "link": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        },
+        "label": [
+          {
+            "type": "paragraph",
+            "text": "Ut quis aliquip enim aliqua cillum dolor nulla enim eiusmod velit proident nostrud sunt velit exercitation. Adipisicing tempor sunt irure est labore anim. Et officia amet aute anim consequat ipsum elit eiusmod ea magna cillum esse ea.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

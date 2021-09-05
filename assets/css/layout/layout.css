@@ -1,0 +1,10 @@
+.container__content{
+  @apply px-4 py-12
+}
+
+@screen laptop {
+  .container__content{
+    @apply px-20 py-20
+  }
+
+}

@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+.heading__title--primary {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-3xl;
+}
+
+.heading__title--secondary {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-2xl;
+}
+
+.heading__title--tertiary {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-xl leading-6;
+}
+
+.heading__title--quaternary {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-lg leading-6;
+}
+
+.heading__title--quinary {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-base;
+}
+
+.heading__paragraph {
+  font-family: "Sequel100Black-55", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-base;
+}
+
+.paragraph .paragraph--link {
+  font-family: "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-base;
+}
+
+.grayParagraph p {
+  font-family: "Poppins", "Arial", sans-serif;
+  color: #7d7d7d;
+  @apply text-base;
+}
+
+.paragraph--bold {
+  @apply font-bold;
+}
+
+.quote {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-5xl;
+}
+
+.quote--small {
+  @apply text-4xl;
+}
+.quote--large {
+  @apply text-6xl;
+}
+
+.quote--symbol {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  font-size: 118px;
+}
+
+.subtext {
+  font-family: "Poppins", "Arial", sans-serif;
+  color: #ffffff;
+  @apply text-xs leading-6;
+}
+
+.link {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  color: #ff2685;
+  @apply text-base;
+}
+
+.link--underline {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  border-color: #ff2685;
+  @apply border-b-2;
+}
+
+.link--bold {
+  font-family: "Sequel100Black-85", "Poppins", "Arial", sans-serif;
+  font-weight: 700;
+}
+
+@screen laptop {
+  .heading__title--primary {
+    @apply text-4xl;
+  }
+
+  .heading__title--secondary {
+    @apply text-3xl;
+  }
+
+  .heading__title--tertiary {
+    @apply text-2xl leading-6;
+  }
+
+  .heading__title--quaternary {
+    @apply text-xl leading-6;
+  }
+
+  .heading__title--quinary {
+    @apply text-lg leading-6;
+  }
+
+  .heading__paragraph {
+    @apply text-lg leading-6;
+  }
+
+  .paragraph .paragraph--link {
+    @apply text-lg leading-6;
+  }
+
+  .quote {
+    @apply text-7xl;
+  }
+
+  .quote--small {
+    @apply text-6xl;
+  }
+
+  .quote--large {
+    @apply text-8xl;
+  }
+
+  .subtext {
+    @apply text-sm leading-6;
+  }
+
+  .link {
+    @apply text-xl leading-6;
+  }
+}
+@screen big-desktop {
+  .heading__title--primary {
+    @apply text-5xl;
+  }
+
+  .heading__title--secondary {
+    @apply text-4xl;
+  }
+
+  .heading__title--tertiary {
+    @apply text-3xl;
+  }
+
+  .heading__title--quaternary {
+    @apply text-2xl leading-6;
+  }
+
+  .heading__title--quinary {
+    @apply text-xl leading-6;
+  }
+
+  .heading__paragraph {
+    @apply text-xl leading-6;
+  }
+
+  .paragraph .paragraph--link {
+    @apply text-xl leading-6;
+  }
+
+  .quote {
+    @apply text-8xl;
+  }
+
+  .quote--small {
+    @apply text-7xl;
+  }
+
+  .quote--large {
+    @apply text-9xl;
+  }
+
+  .subtext {
+    @apply text-base;
+  }
+
+  .link {
+    @apply text-2xl leading-6;
+  }
+}
+@screen small-phone {
+  .heading__title--primary {
+    @apply text-2xl leading-6;
+  }
+
+  .heading__title--secondary {
+    @apply text-xl leading-6;
+  }
+
+  .heading__title--tertiary {
+    @apply text-lg leading-6;
+  }
+
+  .heading__title--quaternary {
+    @apply text-base;
+  }
+
+  .heading__title--quinary {
+    @apply text-sm leading-6;
+  }
+
+  .heading__paragraph {
+    @apply text-sm leading-6;
+  }
+
+  .paragraph .paragraph--link {
+    @apply text-sm leading-6;
+  }
+
+  .quote {
+    @apply text-4xl;
+  }
+
+  .quote--small {
+    @apply text-3xl;
+  }
+
+  .quote--large {
+    @apply text-5xl;
+  }
+
+  .quote--symbol {
+    font-size: 60px;
+  }
+
+  .link {
+    @apply text-sm leading-6;
+  }
+}
+@font-face {
+  font-family: "Sequel100Black-55";
+  src: url("~assets/fonts/sequel100black55.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sequel100Black-85";
+  src: url("~assets/fonts/sequel100black85.woff2") format("woff2");
+  font-display: swap;
+}
