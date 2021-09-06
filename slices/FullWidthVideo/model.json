@@ -1,0 +1,77 @@
+{
+  "id": "full_width_video",
+  "type": "SharedSlice",
+  "name": "FullWidthVideo",
+  "description": "FullWidthVideo",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "FullWidthVideo",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "fontColor": {
+          "config": {
+            "label": "Font Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "videoLink": {
+          "config": {
+            "label": "Video Link",
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        },
+        "link": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        },
+        "linkLabel": {
+          "config": {
+            "label": "",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      },
+      "items": {
+        "socialText": {
+          "config": {
+            "label": "Social Text",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "socialIcon": {
+          "config": {
+            "label": "Social Icon",
+            "constraint": {
+              "width": 20,
+              "height": 20
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      }
+    }
+  ]
+}

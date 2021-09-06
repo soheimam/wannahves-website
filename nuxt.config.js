@@ -11,6 +11,7 @@ const { getStoriesPaths } = require("slice-machine-ui/helpers/storybook");
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: "static",
+  ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: "slice-library-starter-nuxt",
@@ -39,7 +40,10 @@ export default {
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: ["~/assets/css/tailwind.css"],
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [],
+  plugins: [
+    { src: "@/plugins/vue-awesome-swiper", ssr: false },
+    { src: "@/plugins/vue-video-background", ssr: false }
+  ],
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)

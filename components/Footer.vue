@@ -1,5 +1,5 @@
 <template>
-  <section class="container__content footer w-screen h-96 bg-black">
+  <section class="container__content footer w-screen h-96 bg-black overflow-hidden">
     <div class="flex flex-col laptop:flex-row ">
       <div class="flex w-full">
         <ul class="">
@@ -62,7 +62,7 @@
         </div>
       </div>
       <div
-        class="w-full flex items-start justify-between laptop:justify-end "
+        class="w-full flex items-start justify-between laptop:justify-end overflow-hidden"
       >
         <ul class="flex">
           <li

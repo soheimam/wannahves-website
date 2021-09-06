@@ -1,0 +1,99 @@
+{
+  "id": "card_slider",
+  "type": "SharedSlice",
+  "name": "CardSlider",
+  "description": "CardSlider",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "CardSlider",
+      "primary": {
+        "linkColor": {
+          "config": {
+            "label": "",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "textColor": {
+          "config": {
+            "label": "",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "linkLabel": {
+          "config": {
+            "label": "",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "link": {
+          "config": {
+            "label": "",
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        }
+      },
+      "items": {
+        "cardImage": {
+          "config": {
+            "label": "Card Image",
+            "constraint": {},
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "cardTitle": {
+          "config": {
+            "label": "Card Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3,heading4"
+          },
+          "type": "StructuredText"
+        },
+        "cardDescription": {
+          "config": {
+            "label": "Card Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "cardLinkLabel": {
+          "config": {
+            "label": "Card Link Label",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "cardLink": {
+          "config": {
+            "label": "Card Link",
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        }
+      }
+    }
+  ]
+}

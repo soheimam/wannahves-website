@@ -19,6 +19,21 @@
           "choices": {
             "fullwidth_image": {
               "type": "SharedSlice"
+            },
+            "center_text": {
+              "type": "SharedSlice"
+            },
+            "call_to_action": {
+              "type": "SharedSlice"
+            },
+            "full_width_video": {
+              "type": "SharedSlice"
+            },
+            "card_slider": {
+              "type": "SharedSlice"
+            },
+            "case_slider": {
+              "type": "SharedSlice"
             }
           }
         }

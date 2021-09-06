@@ -1,16 +1,13 @@
 {
   "slices": {
     "FullwidthImage": {},
-    "CenterText": {
+    "CenterText": {},
+    "CallToAction": {},
+    "CaseSlider": {},
+    "CardSlider": {},
+    "FullWidthVideo": {
       "default-slice": {
-        "primary": {
-          "paragraph": {
-            "config": {
-              "patternType": "PARAGRAPH",
-              "blocks": 1
-            }
-          }
-        }
+        "primary": {}
       }
     }
   },

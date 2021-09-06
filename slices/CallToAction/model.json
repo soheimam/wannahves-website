@@ -1,0 +1,78 @@
+{
+  "id": "call_to_action",
+  "type": "SharedSlice",
+  "name": "CallToAction",
+  "description": "CallToAction",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "CallToAction",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "single": "heading1",
+            "label": "Title",
+            "placeholder": "This is where it all begins..."
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "single": "paragraph",
+            "label": "Description",
+            "placeholder": "A nice description of your product"
+          }
+        },
+        "backgroundColor": {
+          "config": {
+            "label": "Background Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "buttonColor": {
+          "config": {
+            "label": "Button Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "linkColor": {
+          "config": {
+            "label": "Link Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "textColor": {
+          "config": {
+            "label": "Text Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "link": {
+          "config": {
+            "label": "Link",
+            "placeholder": "",
+            "select": "web",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        },
+        "linkLabel": {
+          "config": {
+            "label": "Link Label",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      },
+      "items": {}
+    }
+  ]
+}
